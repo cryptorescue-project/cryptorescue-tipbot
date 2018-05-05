@@ -25,11 +25,11 @@
   "devDependencies": {
     "prettier": "^1.12.1"
   },
-  "name": "lbry-tipbot",
+  "name": "cryptorescue-tipbot",
   "version": "0.0.4",
-  "description": "LBRYs tipbot for Discord",
+  "description": "CryptoRescue tipbot for Discord",
   "main": "app.js",
-  "repository": "https://github.com/lbryio/lbry-tipbot",
-  "author": "filipnyquist <filip@lbry.io>",
+  "repository": "https://github.com/cryptorescue-project/cryptorescue-tipbot",
+  "author": "mafalate <mafalate@cryptorescue.org>",
   "license": "MIT"
 }

@@ -1,8 +1,7 @@
-# Bot for [LBRY's Discord](https://discord.gg/tgnNHf5)
-(This README will be updated along with bot updates)
+# [CryptoRescue Discord Tipbot](https://discord.gg/hrY7B9A)
 Features:
 
-- Tipbot for LBC. Responds to `!tip`.
+- A CryptoRescue Tipbot. Use command !tip to interact.
 - Dynamic plugin loading with permission support.
 
 
@@ -21,5 +20,6 @@ Edit and rename default.json.example in /config, then run:
 
 ```
 npm install
+(You may need to copy the "config" folder to the "bot" folder)
 node bot.js
 ```

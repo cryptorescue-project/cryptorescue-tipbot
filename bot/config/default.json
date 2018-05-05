@@ -9,5 +9,5 @@
     "user": "cprd",
     "pass": "cprd"
   },
-  "sandboxchannel": "#channelID"
+  "sandboxchannel": "#dedicated-discord-channel"
 }
